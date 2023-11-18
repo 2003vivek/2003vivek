@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Dubey</h1>
 # 💫 About Me:
-I am a passionalte Data Scientist,AI developer and a Web Developer. Everyday I develop some new AI tool either by training the model by our own data or by using the API's of some transformers<br>like hugging face etc.<br><br>I am Skilled in many languages but majorly in python. <br>I am Skilled in full stack Development also.
+I am a passionate Data Scientist,AI developer and a Web Developer. Everyday I develop some new AI tool either by training the model by our own data or by using the API's of some transformers<br>like hugging face etc.<br><br>I am Skilled in many languages but majorly in python. <br>I am Skilled in full stack Development also.
 
 
 ## 🌐 Socials:
